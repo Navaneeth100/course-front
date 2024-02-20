@@ -36,7 +36,7 @@ function Add() {
     
             console.log("Form Data:", postData);
     
-            const response = await axios.post("https://course-backend-oypi.onrender.com/student", postData);
+            const response = await axios.post("https://course-server-nw6n.onrender.com/student", postData);
     
             console.log("Response:", response.data);
     
