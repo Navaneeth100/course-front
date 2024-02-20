@@ -11,7 +11,7 @@ function View() {
   }, []);
 
   const fetchData = () => {
-    axios.get('https://course-backend-oypi.onrender.com/student')
+    axios.get('https://course-server-nw6n.onrender.com/student')
       .then(response => setData(response.data))
       .catch(error => console.error('Error fetching data:', error));
   };
