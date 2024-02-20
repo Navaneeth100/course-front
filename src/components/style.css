@@ -1,0 +1,237 @@
+.header{
+    background-color:rgba(21,80,122,255);
+    height: 77px;
+    
+    
+}
+
+.header .logo{
+   padding: 10px;
+   background-color: black;
+   border-radius: 20px;
+   margin: 10px;
+   color: white;
+}
+
+.home{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://cdn.atulhost.com/wp-content/uploads/2017/11/elearning.jpg");
+    background-size:cover;
+    color: white;
+    padding-top: 130px;
+
+}
+
+.home h1{
+    font-size: 65px;
+    margin-left: 50px;
+    font-weight: bolder;
+    
+}
+.home h2{
+    margin-left: 50px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+.home button{
+    padding: 10px;
+    margin-left: 50px;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    transition: 0.5s;
+}
+.home button:hover{
+
+    background-color: black;
+    color:white;
+}
+.registration{
+ 
+   background-color:rgba(21,80,122,255);
+   height: 130vh;
+   
+
+   
+}
+.registration h2{
+   padding: 20px;
+    color: white;
+}
+.registration .form{
+    background-color: white;
+    width: 500px;
+    margin-left: 30%;
+    padding: 30px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+.registration .form input{
+     margin:10px;
+     
+}
+.text{
+    width: 250px;
+}
+.country{
+    width: 230px;
+    margin:15px;
+}
+.date{
+    border: 1px solid #ccc;
+    padding: 5px;
+    border-radius: 4px; 
+}
+.registration .form .sumbitbutton{
+    padding: 10px;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    transition: 0.5s;
+    margin-left: 60px;
+}
+.registration .form .viewbutton{
+    padding: 10px;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    transition: 0.5s;
+    margin-left: 60px;
+}
+
+
+.registration .form .sumbitbutton:hover{
+
+    background-color: black;
+    color:white;
+}
+.registration .form .viewbutton:hover{
+
+    background-color: black;
+    color:white;
+}
+
+.view{
+ 
+    background-color:rgba(21,80,122,255);
+    height: 150vh;
+   
+ }
+ .view h2{
+    padding: 20px;
+     color: white;
+ }
+ .view table{
+    background-color: white;
+    width: 90%;
+    margin-left: 70px;
+ }
+ .view table tr,th{
+    padding: 10px;
+    margin: 20px;
+    margin-bottom: 15px;
+ }
+ .view button{
+    padding: 10px;
+    margin-left: 50px;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    transition: 0.5s;
+}
+.view button:hover{
+
+    background-color: black;
+    color:white;
+}
+.registration .addimage{
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    transition: 0.5s;
+    margin-left: 1px;
+}
+.registration .choose{
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    transition: 0.5s;
+    margin-left: 19px;
+}
+
+.box{
+  margin-top: 19%;
+  padding-top: 50px;
+  background-color:rgba(21,80,122,255);
+  padding-bottom: 100px;
+  width: 100%;
+  
+}
+.row .one{
+    width: 100px;
+    height: 100px;
+    border-radius: 25px;
+    margin-left: 250px;
+    background-color:white;
+    margin-top: 150px;
+    
+}
+
+.row .two img{
+    width: 250px;
+    height: 250px;
+    border-radius: 25px;
+    margin-left: 100px;
+    background-size: cover;
+    margin-top: 60px;
+
+}
+.row .three img{
+    width: 250px;
+    height: 250px;
+    border-radius: 25px;
+    margin-left: -55px;
+    margin-top: -20px;
+    background-size: cover;
+    margin-top: 40px;
+    margin-right: 20px;
+
+}
+.row .col .four img{
+    width: 250px;
+    height: 250px;
+    border-radius: 25px;
+    margin-left: -55px;
+    background-size: cover;
+    margin-top: 40px;
+
+}
+
+.para h1 h3{
+    font-size: 60px;
+    margin-top: 100px;
+    
+}
+.para h1{
+    margin-right: 10px;
+}
+.para{
+    margin-left: -200px;
+    margin-top: 150px;
+}
+.placement{
+    margin-left: -150px;
+}
